@@ -1,2 +1,1 @@
-# Webpage_MiskOmega
-MiskOmega Website Template
+miskomega.com homepage
